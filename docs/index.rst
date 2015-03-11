@@ -20,4 +20,6 @@ Feel free to give suggestions and pull-requests.
 .. toctree::
    :maxdepth: 2
 
+   git-tag-version
+
 
