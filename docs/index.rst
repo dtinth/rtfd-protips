@@ -21,5 +21,6 @@ Feel free to give suggestions and pull-requests.
    :maxdepth: 2
 
    git-tag-version
+   link-roles
 
 

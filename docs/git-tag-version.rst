@@ -1,8 +1,9 @@
 
-:Authors: - Thai Pangsakulyanont
-
 Inferring Release Number from Git Tags
 =======================================
+
+:Date:   2015-03-11
+:Author: Thai Pangsakulyanont
 
 When starting a Sphinx documentation using ``sphinx-quickstart``,
 it asks you for version number of the docs.
