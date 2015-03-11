@@ -21,18 +21,6 @@ After fiddling for a couple of days, I have few tips and techniques to share.
   I'm also not a Pythonian; I just found Sphinx to be the right (and superior) tool for the right job.
   Therefore, my code may not be idiomatic -- I mean, Pythonic.
 
-
-Contributing
-------------
-
-The content lives on GitHub at :github:`dtinth/rtfd-protips`.
-
-If you have any tips to share, or any fixes or improvements, feel free to send me pull requests.
-
-
-Table of Contents
------------------
-
 .. toctree::
    :maxdepth: 2
 
@@ -40,4 +28,10 @@ Table of Contents
    link-roles
    pdf-font
 
+Contributing
+------------
+
+The content lives on GitHub at :github:`dtinth/rtfd-protips`.
+
+If you have any tips to share, or any fixes or improvements, feel free to send me pull requests.
 
