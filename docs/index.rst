@@ -14,13 +14,30 @@ to document my open source senior project Bemuse.
 .. _Bemuse: https://gthisub.com/bemusic/bemuse
 
 After fiddling for a couple of days, I have few tips and techniques to share.
-Note that I am not a Pythonian, and so my code may not be idiomatic -- I mean, Pythonic.
-Feel free to give suggestions and pull-requests.
+
+.. note::
+  This is not a pro tip!
+  I only use this name because the subdomain "tips" is already used.
+  I'm also not a Pythonian; I just found Sphinx to be the right (and superior) tool for the right job.
+  Therefore, my code may not be idiomatic -- I mean, Pythonic.
+
+
+Contributing
+------------
+
+The content lives on GitHub at :github:`dtinth/rtfd-protips`.
+
+If you have any tips to share, or any fixes or improvements, feel free to send me pull requests.
+
+
+Table of Contents
+-----------------
 
 .. toctree::
    :maxdepth: 2
 
    git-tag-version
    link-roles
+   pdf-font
 
 
