@@ -2,9 +2,6 @@
 Inferring Release Number from Git Tags
 =======================================
 
-:Date:   2015-03-11
-:Author: Thai Pangsakulyanont
-
 When starting a Sphinx documentation using ``sphinx-quickstart``,
 it asks you for version number of the docs.
 This already makes me question about the maintenance burden.
@@ -37,4 +34,7 @@ and append the number of commits since that tag, along with the commit ID::
 
 So there you have it.
 When building, the version number will describe exactly what commit the documentation is being built for.
+
+:Date:   2015-03-11
+:Author: Thai Pangsakulyanont
 

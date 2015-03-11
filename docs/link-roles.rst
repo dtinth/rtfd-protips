@@ -2,9 +2,6 @@
 Creating Custom Link Roles
 ==========================
 
-:Date:   2015-03-11
-:Author: Thai Pangsakulyanont
-
 I think it'd be cool -- especially in the developer's documentation -- to link to the corresponding source code on GitHub.
 
 In my project's docs, inside the architecture section, for example,
@@ -77,4 +74,6 @@ Finally, add that extension to the configuration file::
   # ones.
   extensions = ['bemuse']
 
+:Date:   2015-03-11
+:Author: Thai Pangsakulyanont
 
